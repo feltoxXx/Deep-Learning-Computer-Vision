@@ -6,6 +6,8 @@ Este repositorio contiene material y notas del curso **Deep Learning: Computer V
 
 ### [Curso de Fundamentos de Redes Neuronales con Python y Keras](https://github.com/feltoxXx/Deep-Learning-Computer-Vision/tree/main/Curso%20de%20Fundamentos%20de%20Redes%20Neuronales%20con%20Python%20y%20Keras)
 - **Duración:** 4 horas de contenido, 8 horas de práctica
+- **Estado:** Finalizado
+- **Certificado:** [Diploma](https://platzi.com/p/luislagardera/curso/2263-course/diploma/detalle/)
 - **Descripción:** Introducción a las redes neuronales utilizando Python y Keras. 
 
 ## Objetivos del Curso
