@@ -71,6 +71,7 @@ tensorboard/
 *.ckpt.data-*
 *.ckpt.index
 *.pb
+*.pt
 
 # Saved model directories
 saved_model/
