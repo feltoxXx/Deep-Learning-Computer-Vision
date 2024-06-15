@@ -76,6 +76,8 @@ tensorboard/
 
 # Saved model directories
 saved_model/
+.huggingface
+huggingface/
 
 # Weights files
 *.weights
