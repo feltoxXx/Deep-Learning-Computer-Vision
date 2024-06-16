@@ -12,8 +12,10 @@ Este repositorio contiene material y notas del curso **Deep Learning: Computer V
 
 ### [Curso de Redes Neuronales con PyTorch](https://github.com/feltoxXx/Deep-Learning-Computer-Vision/tree/main/Curso%20de%20Redes%20Neuronales%20con%20PyTorch)
 - **Duración:** 4 horas de contenido, 8 horas de práctica
-- **Estado:** En Curso
+- **Estado:** Finalizado
+- **Certificado:** [Diploma](https://platzi.com/p/luislagardera/curso/7693-pytorch/diploma/detalle/)
 - **Descripción:** Implementación y entrenamiento de redes neuronales usando PyTorch.
+
 
 ## Objetivos del Curso
 
