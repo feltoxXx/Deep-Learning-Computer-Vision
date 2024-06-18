@@ -16,6 +16,10 @@ Este repositorio contiene material y notas del curso **Deep Learning: Computer V
 - **Certificado:** [Diploma](https://platzi.com/p/luislagardera/curso/7693-pytorch/diploma/detalle/)
 - **Descripción:** Implementación y entrenamiento de redes neuronales usando PyTorch.
 
+### [Curso de Redes Neuronales Convolucionales con Python y Keras](https://github.com/feltoxXx/Deep-Learning-Computer-Vision/tree/main/Curso%20de%20Redes%20Neuronales%20Convolucionales%20con%20Python%20y%20Keras)
+- **Duración:** 4 horas de contenido, 16 horas de práctica
+- **Descripción:** Aprendizaje profundo en la construcción y entrenamiento de redes neuronales convolucionales con Python y Keras.
+
 
 ## Objetivos del Curso
 
