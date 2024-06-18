@@ -65,6 +65,7 @@ tensorboard/
 
 # HDF5 files
 *.h5
+*.hdf5
 
 # Model files
 *.ckpt
